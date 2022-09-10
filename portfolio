@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+
+<header>
+   <title>Tanya Bollinger-Whempner's Portal</title>
+</header>
+
+<body>
+   <img src="images/banner.jpg">
+   <h1>Tanya Bollinger-Whempner's Portal</h1>
+   <h2>About Me</h2>
+   <p> I am learning how to be a web app and websitedeveloper in Montana/North Dakota</p>
+   <h3>Education</h3>
+   <p>I went to Independence University of Utah for my assiciate's degree in Graphic Design.</p>
+   <p> I have also spent a year and 1/2 learning on my own with Adobe creative challenges.</p>
+   <p>I'm also doing Coursera to learn web developement. </p><br />
+
+   <p>I'm thee C.E.O. for MonTana DeZigns & Rockin' Bakken Designs.</p><br />
+
+   <h2>Credentials and Portfolio</h2><br />
+
+   <p><a href=resume.html">My Resume | <a href="https//github.com/MonTana DeZigns">My GitHub</p><br />
+
+   <h2> CONTACT:</h2></br>
+   <p>Email:<a href="mailto:montanadezigns@gmail.com"> montanadezigns@gmail.com</a></p>
+      <p>Email:<a href="mailto:rockin.bakken.designs@gmail.com"> rockin.bakken.designs@gmail.com</a></p>
+<h2>Portfolio</h2>
+<h3>Github: <a href="https://"
+  </body>
+
+</body>
+
+<footer>
+   <hr>
+   <code>Copyright (C) 2022 Tanya Bollinger-Whempner</code>
+
+</footer>
+
+</html> 
